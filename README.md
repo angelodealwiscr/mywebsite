@@ -1,3 +1,4 @@
 # mywebsite
 My attempt at making a website
-Helllo everyone!
+# Hello everyone!
+Welcome to my website
